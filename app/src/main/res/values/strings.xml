@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">UILover110</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="all_on_one_you_are">all on one you are</string>
+    <string name="welcomeback_to_your_app">WelcomeBack To Your app</string>
+    <string name="uilover_channel">UILover Channel</string>
 </resources>

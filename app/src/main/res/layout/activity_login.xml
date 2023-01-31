@@ -34,6 +34,7 @@
                 android:layout_marginStart="32dp"
                 android:textColor="#ffffff"
                 android:textSize="40dp"
+                android:gravity="center"
                 android:textStyle="bold"/>
 
             <EditText
